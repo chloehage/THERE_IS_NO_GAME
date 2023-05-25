@@ -1,6 +1,6 @@
 import pygame as pygame
 from random import randint
-import imputbox
+import inputbox
 
 pygame.init()
 
