@@ -10,6 +10,7 @@ Projet NSI Terminale, création d'un jeu inspiré du jeu "There is no game"
 ## MVP :
 - une interface 
 - un bouton de son qui peut couper la musique
+- un bouton pour entrer le nom de l'utilisateur
 - le bouton du son se déplace avec Louis qui s'énerve
 
 
