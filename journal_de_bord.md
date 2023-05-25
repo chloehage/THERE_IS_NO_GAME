@@ -4,8 +4,9 @@
 ### 09/05
 - fin du jeu avec les boutons qui s'ajoutent
 ### 23/05
-- début imput box
+- début input box
 ### 25/05
-- création de la classe Imputbox pour entrer le prénom de l'utilisateur
+- création de la classe Inputbox pour entrer le prénom de l'utilisateur
 - on coupe la musique en cliquant sur le bouton de son
 - problème : on arrive pas à remettre la musique
+- problème : mettre la inputbox dans le code
