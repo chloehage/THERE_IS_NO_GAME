@@ -15,4 +15,5 @@
 ### 28/05
 - problème : la musique se relance a chaque fois qu'on lance la fonction
 ### 29/05
-- 
+- on a réussi à actualiser l'écran entre chaque fonction
+- affichage de l'inputbox (pour l'instant elle marche pas mais oui)
